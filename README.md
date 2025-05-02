@@ -85,3 +85,4 @@ Through this task, I gained hands-on experience in building, training, and evalu
 This task also helped me appreciate the practicality of deep learning in real-world visual recognition systems and prepared me for more complex architectures such as ResNet, Inception, and Transfer Learning models.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/89a387c4-4dc9-4383-b69e-bb51940af837)
